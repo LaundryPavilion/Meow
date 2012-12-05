@@ -1,0 +1,6 @@
+﻿
+<Ships>
+  <Ship X="3" Y="Г" Length="3" Orientation="vertical" />
+  <Ship X="7" Y="А" Length="2" Orientation="horizontal" />
+  <Ship X="10" Y="Ж" Length="1" />
+</Ships>
